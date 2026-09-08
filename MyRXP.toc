@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: MyRXP
+## Notes: Guide de leveling pas-a-pas pour WoW Vanilla 1.12.1
+## Author: MyRXP
+## Version: 0.1.0
+## SavedVariables: MyRXP_Settings
+
+MyRXP.lua
+MyRXP_VGImporter.lua
+Guides/Horde_1_12_Tauren.lua
